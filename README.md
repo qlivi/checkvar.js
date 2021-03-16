@@ -1,0 +1,1 @@
+# checkvar.js
